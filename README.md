@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-This is deployed to heroku here : 
+This is deployed to heroku here : https://young-beach-54405.herokuapp.com/
 
 ## License
 
